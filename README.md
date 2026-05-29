@@ -1,6 +1,6 @@
 # Bisnis.com Crawler & Scraper
 
-Crawler dan scraper sederhana untuk mengambil informasi artikel dari bisnis.com.
+Crawler dan scraper untuk mengambil informasi artikel dari bisnis.com.
 
 ## Arsitektur
 
