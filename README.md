@@ -26,6 +26,4 @@ Output disimpan dalam format JSON dengan field:
 * Isi
 * Link
 
-Tanggal disimpan dalam format ISO 8601.
-python standard.py
-```
+Tanggal disimpan dalam format ISO 8601
